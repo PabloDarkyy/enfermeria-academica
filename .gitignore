@@ -1,0 +1,10 @@
+node_modules/
+.env
+.pgpass.local
+*.log
+*.zip
+.DS_Store
+.claude/
+
+# Archivos generados por la compilación de GitHub Pages
+pages/
